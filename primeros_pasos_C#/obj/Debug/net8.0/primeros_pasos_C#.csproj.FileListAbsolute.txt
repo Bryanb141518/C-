@@ -1,0 +1,14 @@
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\bin\Debug\net8.0\primeros_pasos_C#.exe
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\bin\Debug\net8.0\primeros_pasos_C#.deps.json
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\bin\Debug\net8.0\primeros_pasos_C#.runtimeconfig.json
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\bin\Debug\net8.0\primeros_pasos_C#.dll
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\bin\Debug\net8.0\primeros_pasos_C#.pdb
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\obj\Debug\net8.0\primeros_pasos_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\obj\Debug\net8.0\primeros_pasos_C#.AssemblyInfoInputs.cache
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\obj\Debug\net8.0\primeros_pasos_C#.AssemblyInfo.cs
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\obj\Debug\net8.0\primeros_pasos_C#.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\obj\Debug\net8.0\primeros_pasos_C#.dll
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\obj\Debug\net8.0\refint\primeros_pasos_C#.dll
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\obj\Debug\net8.0\primeros_pasos_C#.pdb
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\obj\Debug\net8.0\primeros_pasos_C#.genruntimeconfig.cache
+C:\Users\bryan\Documents\primeros_pasos_C#\primeros_pasos_C#\obj\Debug\net8.0\ref\primeros_pasos_C#.dll
