@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.Design;
 
 namespace CondicionalIF
 {
@@ -6,11 +7,23 @@ namespace CondicionalIF
     {
         private static void Main(string[] args)
         {
-            bool haceFrio;
+            Console.WriteLine("ingrese un numero");
+            if (int.TryParse(Console.ReadLine(), out int numero))
+            {
 
-            haceFrio = true;
 
-            Console.WriteLine(haceFrio);
+                if (numero > 0) Console.WriteLine("el numero es positivo");
+
+                else if (numero < 0) Console.WriteLine("el numero es negativo");
+
+                else  Console.WriteLine("el numero es cero");
+
+            }
+            else
+            {
+                Console.WriteLine("entrada invalida ingrese un numero entero");
+            }
         }
     }
-} 
+
+}
